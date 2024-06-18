@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 💙💙
 
-Meu nome é nome sobrenome
+Meu nome é nome Kauanny Helloa
 
-- Estou estudando na Alura
+- Estou estudando no Galliera
 
 - Estou me desenvolvendo na linguagem JavaScript
 - 
